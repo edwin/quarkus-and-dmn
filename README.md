@@ -21,7 +21,7 @@ Test using CURL
         -H 'Content-Type: application/json' \
          -d '{ "age": 15, "salary": 100 }'
  
-{"result":"you are eligible for 5000","loan_limit":5000,"salary":100,"age":15}
+{"loan_limit":5000,"salary":100,"age":15}
  ```
 
 Screenshots
