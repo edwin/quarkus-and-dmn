@@ -89,7 +89,7 @@
       </dmn:rule>
       <dmn:rule id="_60E555CD-5DEB-4F5E-B07B-4DC8D592F3F0">
         <dmn:inputEntry id="_754E1078-1F8A-43D6-8149-04F8005F4CDF">
-          <dmn:text>[46..99]</dmn:text>
+          <dmn:text>(45..99]</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_29DC927F-D557-4321-BC61-6F335960B09B">
           <dmn:text>&lt;=1000</dmn:text>
@@ -103,7 +103,7 @@
       </dmn:rule>
       <dmn:rule id="_15535618-41DA-471E-B440-A8D29B1E4DAD">
         <dmn:inputEntry id="_2DC54DDC-1C30-4A12-B277-BEDF3B204798">
-          <dmn:text>[46..99]</dmn:text>
+          <dmn:text>(45..99]</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_8AA33E47-2877-4A5D-836B-ADF53CCEE266">
           <dmn:text>&gt;1000</dmn:text>
